@@ -1,2 +1,2 @@
-# burger-menu
+# responsive-navbar-tutorial
 Created with CodeSandbox
